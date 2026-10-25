@@ -4,8 +4,8 @@
 
 ![My Best photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMb8xQyvnphvVSBX-GTX0rBxlmqj6lKqYUfyLJMDXWA&s=10)
 
-**
-*
+**I'm good pudge
+*There's my code:
 ```java script
 let PudgeAlive = true;
 
